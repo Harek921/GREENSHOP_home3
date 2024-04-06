@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('imeges/11.jpg');
+    background:url('../images/background_body.jpg') no-repeat;
     background-size: cover ;
     background-position: center;
 }
@@ -96,7 +96,7 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgb(0, 0, 0, .1%);
     cursor: pointer;
-    font-size: #333;
+    font-size: 15px;
     font-weight: 600;
 }
 
